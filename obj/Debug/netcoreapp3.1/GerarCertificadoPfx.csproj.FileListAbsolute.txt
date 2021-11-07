@@ -1,0 +1,15 @@
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.exe
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.deps.json
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.runtimeconfig.json
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.runtimeconfig.dev.json
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.dll
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\bin\Debug\netcoreapp3.1\GerarCertificadoPfx.pdb
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.csprojAssemblyReference.cache
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.Form1.resources
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.csproj.GenerateResource.cache
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.AssemblyInfoInputs.cache
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.AssemblyInfo.cs
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.csproj.CoreCompileInputs.cache
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.dll
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.pdb
+C:\Projetos\GerarCertificadoPfx\GerarCertificadoPfx\obj\Debug\netcoreapp3.1\GerarCertificadoPfx.genruntimeconfig.cache
